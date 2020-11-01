@@ -1,2 +1,2 @@
 dependencies:
-[pyQt5(pip install pyqt5)]
+{PyQt5 : (pip install pyqt5)}
